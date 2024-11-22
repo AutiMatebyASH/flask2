@@ -1,0 +1,402 @@
+[
+  {
+    "emotion": "surprised",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.87
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.91
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.94
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.78
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.65
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.7
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.56
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.86
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.81
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.99
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.91
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.86
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.85
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.94
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.5
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.78
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.72
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.93
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.76
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.84
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.76
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.8
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.79
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.51
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.62
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.83
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.64
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.6
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.54
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.82
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.9
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.86
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.99
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.67
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.98
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.63
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.76
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.98
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.56
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.84
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.85
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.63
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.57
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.61
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.85
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.73
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.62
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.84
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.6
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.7
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.99
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.69
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.62
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.66
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.62
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.66
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.56
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.91
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.99
+  },
+  {
+    "emotion": "happy",
+    "confidence": 0.86
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.64
+  },
+  {
+    "emotion": "surprised",
+    "confidence": 0.78
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.8
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.52
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.68
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.83
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.62
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.52
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.75
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.95
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.54
+  },
+  {
+    "emotion": "disgusted",
+    "confidence": 0.52
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.67
+  },
+  {
+    "emotion": "sad",
+    "confidence": 0.87
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.69
+  },
+  {
+    "emotion": "fearful",
+    "confidence": 0.9
+  }
+]

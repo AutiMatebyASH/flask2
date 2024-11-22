@@ -1,0 +1,402 @@
+[
+  {
+    "emotion": "angry",
+    "confidence": 0.72
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.78
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.7
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.53
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.64
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.94
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.92
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.81
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.58
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.96
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.95
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.76
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.82
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.56
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.84
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.96
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.79
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.9
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.82
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.51
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.7
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.96
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.75
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.84
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.8
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.51
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.52
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.61
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.65
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.67
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.94
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.8
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.87
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.82
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.58
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.82
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.55
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.7
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.66
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.73
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.68
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.63
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.54
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.93
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.84
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.8
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.88
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.52
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.92
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.57
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.87
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.74
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.91
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.75
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.67
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.76
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.68
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.58
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.8
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.96
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.51
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.62
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.9
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.71
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.96
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.57
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.97
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.58
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.69
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.92
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.52
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.53
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.61
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.89
+  },
+  {
+    "emotion": "angry",
+    "confidence": 0.58
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.5
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.59
+  },
+  {
+    "emotion": "neutral",
+    "confidence": 0.93
+  }
+]
