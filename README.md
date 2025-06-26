@@ -11,3 +11,4 @@ The LLM Core handles:
 - User profiling for personalized responses
 - Response generation using a fine-tuned GPT-Neo model
 - RESTful API endpoints for real-time interaction with frontend clients (e.g., Flutter app)
+- Note: This is part of the AutiMate smart glasses project.
